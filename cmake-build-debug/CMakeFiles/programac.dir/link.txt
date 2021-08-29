@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\programac.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\programac.dir/objects.a @CMakeFiles\programac.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\programac.dir/objects.a -Wl,--no-whole-archive  -o programac.exe -Wl,--out-implib,libprogramac.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\programac.dir\linklibs.rsp

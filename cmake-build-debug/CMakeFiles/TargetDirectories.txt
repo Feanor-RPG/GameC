@@ -1,0 +1,3 @@
+C:/Users/igorm/Desktop/programac/cmake-build-debug/CMakeFiles/programac.dir
+C:/Users/igorm/Desktop/programac/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorm/Desktop/programac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
